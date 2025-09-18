@@ -16,4 +16,4 @@ phases:
 artifacts:
   files:
     - artifacts/**
-  discard-paths: none
+  discard-paths: no
